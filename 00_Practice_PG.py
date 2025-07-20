@@ -42,3 +42,11 @@ def add(x, y):
 j = add(5, 3)
 print(j)
 print(add(b, c))
+print("-----------------")
+fname = "niranjan reddy"
+lname = "b"
+fullname = fname + " " + lname
+fullname = fullname.upper()
+print(fullname)
+print("-----------------")
+
