@@ -43,3 +43,13 @@ j = add(5, 3)
 print(j)
 print(add(b, c))
 print("-----------------")
+<<<<<<< HEAD
+=======
+fname = "niranjan reddy"
+lname = "b"
+fullname = fname + " " + lname
+fullname = fullname.upper()
+print(fullname)
+print("-----------------")
+
+>>>>>>> edcc59ef672da5aaf3fa839a47e6cb5de4e4ccff
