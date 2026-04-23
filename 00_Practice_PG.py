@@ -11,7 +11,7 @@ print(9//2)
 print("-----------------")
 a=True
 print(a)
-print(type(a))
+print('a', type(a))
 b=9
 print(b)
 print(type(b))
